@@ -1,0 +1,10 @@
+@import "src/scss/variables";
+
+.main-frame {
+  max-width: 1440px;
+  min-height: 820px;
+  margin: 20px auto 20px;
+  padding: 43px 43px 47px;
+  background-color: $background-main-frame;
+  border-radius: 30px;
+}

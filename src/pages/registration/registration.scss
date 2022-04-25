@@ -1,0 +1,17 @@
+@import "src/scss/variables";
+
+.registration {
+  display: flex;
+  flex-flow: column;
+  width: 343px;
+  margin: 0 auto;
+
+  p {
+    font-family: $default-font;
+    font-size: $base-text-size;
+    line-height: $base-line-height;
+    font-weight: 700;
+    color: $text-color;
+    text-align: center;
+  }
+}

@@ -1,0 +1,9 @@
+@import "src/scss/variables";
+
+.content-frame {
+  width: 100%;
+  min-height: 730px;
+  padding: 40px 50px 36px;
+  background-color: $background-content-frame;
+  border-radius: 28px;
+}

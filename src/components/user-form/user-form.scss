@@ -1,0 +1,16 @@
+@import "src/scss/variables";
+
+.user-form {
+  width: 100%;
+
+  h3 {
+    margin: 0 0 25px;
+    color: $text-color;
+    text-align: center;
+  }
+
+  &__btn-wrapper {
+    margin-top: 48px;
+    margin-bottom: 23px;
+  }
+}
